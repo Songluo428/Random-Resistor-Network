@@ -9,7 +9,7 @@ Random.py: The code can be run once to generate two text files (componentsx and 
 line 4: the first parameter represents the network size (n); the second parameter represents the resisitance vaules of the second mineral phases; the third parameter represents the number of the second mineral phases in the network (Single-phase model that is, the third parameter is equal to zero).
 lines 6 to 22 : the distribution functions of electrical anisotropy for high-anisotropy minerals (Qtz or Pl).
 
-Layering (Middle crust).py: the code generates compenents20x and components20y, which composed of 9 layers (Qtz and Qtz+Plag layers) .
+Layering (Middle crust).py: the code generates compenents20x and components20y, which are composed of 9 layers (Qtz and Qtz+Plag layers) .
 line 4 : the first parameter represents the network size (n); the second parameter represents the resisitance vaules of the second mineral phases; the third parameter is none; the 4-7th parameters represent the numbers of the second mineral phases in the polymineralic layers (Qtz+Plag layers).
 
 Layering (Lower crust).py: the code generates a resistor network consisting of 10 layers (Plag-rich and Cpx-rich layers).
